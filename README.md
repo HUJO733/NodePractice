@@ -1,14 +1,14 @@
-# REST API
+* REST API
 Restful API 기반 CRUD 기능 구현 연습
-
-# movie
+---
+* movie
 Async, Promise 기반 비동기 처리 연습
-
-# route
+---
+* route
 라우팅 기초 연습
-
-# sequelize
+---
+* sequelize
 sequelize 활용한 mysql 연결 및 데이터 적재
-
-# svaejson
+---
+* svaejson
 json 파일을 활용한 추천 식당 리스트 구현
